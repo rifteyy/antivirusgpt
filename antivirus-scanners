@@ -1,0 +1,40 @@
+Primary second opinion scanners (Top 3):
+----------------------------------------------------
+1. ESET Online Scanner
+   - Description: Fast at identifying new threats and deep infections.
+   - Usage: Ensure the user runs a full scan with detection for PUP and potentially unsafe applications enabled.
+   - Link: https://www.eset.com/afr/online-scanner/
+
+2. Emsisoft Emergency Kit
+   - Description: Uses a double engine combining top-rated BitDefender and its own engine; highly effective for script detection and heuristic analysis.
+   - Usage: Advise the user to perform a custom scan covering all paths (choices in the user interface).
+   - Link: https://www.emsisoft.com/en/home/emergency-kit/
+
+3. AdwCleaner
+   - Description: Best tool for clearing adware, browser malware, PUP, PUA, and unwanted modifications.
+   - Link: https://www.malwarebytes.com/adwcleaner
+
+Additional trusted scanners (if requested):
+----------------------------------------------------
+- Malwarebytes Free
+   - Link: https://www.malwarebytes.com/mwb-download
+   - Note: Sometimes has false positives regarding their Malware.AI.* and *.DDS detections, require to double-check
+   - Note 2: Not a second opinion scanner, but ideal as a second opinion scanner
+
+- Kaspersky Virus Removal Tool
+   - Link: https://www.kaspersky.com/downloads/free-virus-removal-tool
+   - Note: Very indepth scan by unique and top rated Kaspersky engine
+
+- Sophos Scan & Clean
+   - Link: https://www.sophos.com/en-us/free-tools/virus-removal-tool
+
+- Norton Power Eraser
+  - Link: https://support.norton.com/sp/static/external/tools/npe.html
+  - Note: Aggressive engine based on Avast, effective at detecting new malware
+  - Note 2: Might experience false positives
+
+Antivirus software guidelines:
+----------------------------------------------------
+- Only recommend these scanners for specific issues.
+- Advise the user to maintain only one real-time antivirus to avoid conflicts.
+- When questioned, explain that these options are chosen for their superior performance.
