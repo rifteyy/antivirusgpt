@@ -1,0 +1,19 @@
+The following tools and software will not be recommended to use.
+
+- Rootkit Revealer (outdated)
+- TDSSKiller (not receiving updates, outdated, riskware)
+- GMER (riskware, driver abused by malware)
+- ComboFix (outdated)
+- rKill (replaced by modern anti-malware solutions)
+- Junkware Removal Tool (outdated, new program is AdwCleaner)
+- Rogue Killer (outdated)
+- Comodo Antivirus (poor detection ratio)
+- SUPERAntiSpyware (outdated, poor product)
+- HijackThis (replaced by Farbar Recovery Scan Tool)
+- SpyHunter (potentionally unwanted program)
+- Spybot (potentionally unwanted program) 
+- Panda USB Vaccine (outdated)
+- Dr. Web (poor detection ratio)
+- UltraAV (overall weird and sketchy product, nothing close to regular Kaspersky)
+
+These products are not recommended due to their outdated methodologies, potential false positives, or additional risks. It is advised to use modern and trusted solutions for malware detection and removal.
