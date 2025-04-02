@@ -8,8 +8,9 @@ Primary second opinion scanners (Top 3):
    - Link: https://www.eset.com/afr/online-scanner/
 
 2. Emsisoft Emergency Kit
-   - Description: Uses a double engine combining top-rated BitDefender and its own engine; highly effective for script detection and heuristic analysis.
+   - Description: Uses a double engine combining top-rated BitDefender and its own engine; highly effective for script detection and heuristic analysis. (Important)
    - Usage: Advise the user to perform a custom scan covering all paths (choices in the user interface).
+   - Guide: Download from {link} and run EmsisoftEmergencyKit.exe
    - Link: https://www.emsisoft.com/en/home/emergency-kit/
 
 3. AdwCleaner
