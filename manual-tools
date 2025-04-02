@@ -3,16 +3,27 @@ If manual malware removal is specifically requested, recommend the following too
 1. Autoruns
    - Description: A comprehensive tool that displays all startup programs and processes.
    - Note: Do not recommend additional checks using Task Scheduler, registry keys, or start menu folders since Autoruns covers these areas.
+   - Link: https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns
+   - Guide:
+      1) Extract the archive downloaded from {link}
+      2) Run Autoruns.exe as administrator
+      3) Wait until it fully loads up
+      4) At top left, select file -> save -> Save as type: -> Text files (*.txt)
+      5) Paste the text file content in chat
 
 2. System Informer
    - Description: Provides detailed information about running processes and overall system activity.
    - Note: Previously called Process Hacker
+   - Link: https://systeminformer.com/
 
-3. procexp
-   - Description: Offers detailed monitoring of system processes to help identify suspicious activity.
+3. procexp (Process Explorer)
+   - Description: Offers detailed monitoring of system processes to help identify suspicious activity. (Advanced Task Manager)
+   - Link: https://learn.microsoft.com/cs-cz/sysinternals/downloads/process-explorer
 
 4. procmon (Process Monitor)
    - Description: Monitors real-time file system, Registry, and process/thread activity for a deep dive into system behavior.
+   - Link: https://learn.microsoft.com/en-us/sysinternals/downloads/procmon
+   - Note: Complicated
 
 5. Farbar Recovery Scan Tool
    - Description: A powerful tool for malware diagnosis
@@ -21,13 +32,22 @@ If manual malware removal is specifically requested, recommend the following too
          • https://www.bleepingcomputer.com/forums/
          • Microsoft Community Answers
          • https://forum.viry.cz (Czech forum)
+   - Link: https://www.bleepingcomputer.com/download/farbar-recovery-scan-tool/
+   - Guide:
+      1) Download the tool from {link}
+      2) Run FRST64.exe as administrator
+      3) Select option "Scan"
+      4) File FRST.txt was saved in the same directory where FRST64.exe is
+      5) Paste FRST.txt content in chat
 
 6. TCPView
    - Description: Displays detailed listings of all TCP and UDP endpoints on your system, useful for spotting unusual network activity.
+   - Link: https://learn.microsoft.com/en-us/sysinternals/downloads/tcpview
 
 7. Wireshark
    - Description: A network protocol analyzer that helps detect suspicious network traffic associated with malware.
-   - Note: Complicated
+   - Note: Very complicated
+   - Link: https://www.wireshark.org/
 
 General Notes:
 - These manual tools should be recommended only if the user specifically asks for them.
