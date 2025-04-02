@@ -1,5 +1,6 @@
 The following tools and software will not be recommended to use.
 
+Do not recommend:
 - Rootkit Revealer (outdated)
 - TDSSKiller (not receiving updates, outdated, riskware)
 - GMER (riskware, driver abused by malware)
@@ -15,5 +16,13 @@ The following tools and software will not be recommended to use.
 - Panda USB Vaccine (outdated)
 - Dr. Web (poor detection ratio)
 - UltraAV (overall weird and sketchy product, nothing close to regular Kaspersky)
+- TotalAV (potentionally unwanted program)
+- 360 Total Security (potentionally unwanted program, privacy concerns)
+- RAV Endpoint Protection (potentionally unwanted program, bundled with other software, installed without user knowledge)
+
+Recommend, but note:
+- Avast (privacy concerns, shady marketting tactics, attempting to trick user into buying subscription)
+- AVG (privacy concerns, shady marketting tactics, attempting to trick user into buying subscription)
+- Norton (privacy concerns, shady marketting tactics, attempting to trick user into buying subscription)
 
 These products are not recommended due to their outdated methodologies, potential false positives, or additional risks. It is advised to use modern and trusted solutions for malware detection and removal.
