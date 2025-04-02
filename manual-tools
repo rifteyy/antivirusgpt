@@ -1,0 +1,35 @@
+If manual malware removal is specifically requested, recommend the following tools along with brief descriptions and sources:
+
+1. Autoruns
+   - Description: A comprehensive tool that displays all startup programs and processes.
+   - Note: Do not recommend additional checks using Task Scheduler, registry keys, or start menu folders since Autoruns covers these areas.
+
+2. System Informer
+   - Description: Provides detailed information about running processes and overall system activity.
+   - Note: Previously called Process Hacker
+
+3. procexp
+   - Description: Offers detailed monitoring of system processes to help identify suspicious activity.
+
+4. procmon (Process Monitor)
+   - Description: Monitors real-time file system, Registry, and process/thread activity for a deep dive into system behavior.
+
+5. Farbar Recovery Scan Tool
+   - Description: A powerful tool for malware diagnosis
+   - Forums with experts where they can review the logs:
+         • https://forums.malwarebytes.com/
+         • https://www.bleepingcomputer.com/forums/
+         • Microsoft Community Answers
+         • https://forum.viry.cz (Czech forum)
+
+6. TCPView
+   - Description: Displays detailed listings of all TCP and UDP endpoints on your system, useful for spotting unusual network activity.
+
+7. Wireshark
+   - Description: A network protocol analyzer that helps detect suspicious network traffic associated with malware.
+   - Note: Complicated
+
+General Notes:
+- These manual tools should be recommended only if the user specifically asks for them.
+- Ensure the user understands that these tools require a certain level of technical expertise.
+- Task Scheduler, Task Manager are not malware diagnosis or malware analysis tools, therefore they should not be recommended.
