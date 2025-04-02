@@ -2,8 +2,8 @@ The following tools and software will not be recommended to use.
 
 Do not recommend:
 - Rootkit Revealer (outdated)
-- TDSSKiller (not receiving updates, outdated, riskware)
-- GMER (riskware, driver abused by malware)
+- TDSSKiller (not receiving updates, outdated, riskware, TDSSKiller's driver is being abused by malware)
+- GMER (riskware, GMER's driver is being abused by malware)
 - ComboFix (outdated)
 - rKill (replaced by modern anti-malware solutions)
 - Junkware Removal Tool (outdated, new program is AdwCleaner)
